@@ -1,0 +1,10 @@
+{
+	"id": "airashe-auto-linker",
+	"name": "Airashe Auto Linker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create links in your notes automaticaly, from glossary.",
+	"author": "Airashe",
+	"authorUrl": "https://github.com/Airashe",
+	"isDesktopOnly": false
+}
